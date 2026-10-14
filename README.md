@@ -5,7 +5,7 @@ Doesn't support entering a phrase. ( More than a single word )
 
 ## Usage
 ```
-go run main.go
+go run anagram_checker.go
 ```
 ## Running tests
 ```
